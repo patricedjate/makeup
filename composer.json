@@ -1,0 +1,15 @@
+{
+    "name": "deltadeveloper/glow",
+    "autoload": {
+        "psr-4": {
+            "Deltadeveloper\\Glow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "open source"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
